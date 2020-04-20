@@ -1,0 +1,26 @@
+{
+  "name": "weatherprojectsg",
+  "version": "1.0.0",
+  "description": "for tts homework",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgerbich/weather_project_sg.git"
+  },
+  "author": "Sean Gerbich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgerbich/weather_project_sg/issues"
+  },
+  "homepage": "https://github.com/sgerbich/weather_project_sg#readme",
+  "dependencies": {
+    "browserify": "^16.5.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "uniq": "^1.0.1",
+    "zipcode-to-timezone": "0.0.9"
+  }
+}
